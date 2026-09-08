@@ -1,4 +1,4 @@
-Introduction to Parallel Computing with JAX
+Introduction to Parallel Programming with JAX
 ===========================================
 
 This simple notebook provides some exercises to accompany a [slide deck on 
